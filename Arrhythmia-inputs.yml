@@ -1,0 +1,87 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-i2b2.js
+inputModule2:
+  class: File
+  path: python/arrhythmia-fibrillation---primary.py
+inputModule3:
+  class: File
+  path: python/arrhythmia-flutter---primary.py
+inputModule4:
+  class: File
+  path: python/supraventricular-arrhythmia---primary.py
+inputModule5:
+  class: File
+  path: python/arrhythmia-monitoring---primary.py
+inputModule6:
+  class: File
+  path: python/arrhythmia-letter---primary.py
+inputModule7:
+  class: File
+  path: python/arrhythmia-invite---primary.py
+inputModule8:
+  class: File
+  path: python/cardiomyopathy-arrhythmia---primary.py
+inputModule9:
+  class: File
+  path: python/arrhythmia-conduction---primary.py
+inputModule10:
+  class: File
+  path: python/arrhythmia-wolffparkinson-white---primary.py
+inputModule11:
+  class: File
+  path: python/other-arrhythmia---primary.py
+inputModule12:
+  class: File
+  path: python/arrhythmia-lownganong-levine---primary.py
+inputModule13:
+  class: File
+  path: python/arrhythmia-dysrhythmia---primary.py
+inputModule14:
+  class: File
+  path: python/arrhythmia-cardiac---primary.py
+inputModule15:
+  class: File
+  path: python/paroxysmal-arrhythmia---primary.py
+inputModule16:
+  class: File
+  path: python/ventricular-arrhythmia---primary.py
+inputModule17:
+  class: File
+  path: python/junctional-arrhythmia---primary.py
+inputModule18:
+  class: File
+  path: python/nodal-arrhythmia---primary.py
+inputModule19:
+  class: File
+  path: python/arrhythmia-depolarization---primary.py
+inputModule20:
+  class: File
+  path: python/arrhythmia-preexcitation---secondary.py
+inputModule21:
+  class: File
+  path: python/paroxysmal-arrhythmia---secondary.py
+inputModule22:
+  class: File
+  path: python/ventricular-arrhythmia---secondary.py
+inputModule23:
+  class: File
+  path: python/arrhythmia-flutter---secondary.py
+inputModule24:
+  class: File
+  path: python/other-arrhythmia---secondary.py
+inputModule25:
+  class: File
+  path: python/atrial-arrhythmia---secondary.py
+inputModule26:
+  class: File
+  path: python/arrhythmia-depolarization---secondary.py
+inputModule27:
+  class: File
+  path: python/arrhythmia---secondary.py
+inputModule28:
+  class: File
+  path: python/arrhythmia-unspecified---secondary.py
+inputModule29:
+  class: File
+  path: python/output-cases.py
